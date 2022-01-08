@@ -1,8 +1,6 @@
 # Raqqa in the Popular Imagination: Projecting Attitudes Toward Place Over Time
 ![](https://globalnews.ca/wp-content/uploads/2019/10/raqqa.png)
 
-A short description / abstract of the topic you choose. For the text here and below, feel free to use **bold** and *italic* fonts, [linked texts](url),  ![images](url), or any other element you think would be helpful for your audience to understand the topic.
-
 Utilizing research methods learned over the course of the next ten weeks, I aim to compile *textual and image data* which can be projected and understood within the context of a dynamic civil war - with key shifts in front lines and other major events allowing for time sensitive contextualization.
 
 In working toward this end I hope to understand **how emotional attachment to place can change over the course of a conflict**. Though results may be somewhat skewed by internal displacement and speech restriction - particularly under ISIS - it will be insightful to understand how dissidents and loyal citizens of different political projects can align and differ with relation to one place.
